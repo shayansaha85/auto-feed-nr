@@ -1,7 +1,5 @@
 # About it
 
-This is a simple Nerdpack script designed specifically for sending data to New Relic through API calls. The script makes a single API call, fetches the data, and pushes it to New Relic. The goal is to continuously send data to New Relic for as long as the Nerdpack is open.
-
 
 ### Steps to use it
 ---
