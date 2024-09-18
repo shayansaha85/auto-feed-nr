@@ -1,0 +1,39 @@
+.nr1-49e40d38-6750-4fc1-bec1-dc7e14fce101 .my-nerdlet{
+  outline:1px solid #000;
+}
+
+.nr1-49e40d38-6750-4fc1-bec1-dc7e14fce101 .spinner{
+  border-radius:50%;
+  border:4px solid rgba(0,0,0,.1);
+  border-top-color:#3498db;
+  width:40px;
+  height:40px;
+  -webkit-animation:spin 1s linear infinite;
+          animation:spin 1s linear infinite;
+  margin:20px auto;
+}
+
+@-webkit-keyframes spin{
+  0%{
+    transform:rotate(0deg);
+  }
+  to{
+    transform:rotate(360deg);
+  }
+}
+
+@keyframes spin{
+  0%{
+    transform:rotate(0deg);
+  }
+  to{
+    transform:rotate(360deg);
+  }
+}
+.nr1-49e40d38-6750-4fc1-bec1-dc7e14fce101 .message-container{
+  text-align:center;
+  font-size:18px;
+  color:#333;
+}
+
+/*# sourceMappingURL=https://cli-assets.service.datanerd.us/artifact-index-production/49e40d38-6750-4fc1-bec1-dc7e14fce101/det/49e40d38-6750-4fc1-bec1-dc7e14fce101--styles~1340e6fd.css.map*/
