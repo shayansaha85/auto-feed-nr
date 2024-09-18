@@ -7,8 +7,8 @@ This is a simple Nerdpack script designed specifically for sending data to New R
 ---
 <br>
 
-* Install NodeJS - [Link](https://nodejs.org/en/download/package-manager)
-* Install New Relic One (nr1) cli - [Link](https://docs.newrelic.com/docs/new-relic-solutions/build-nr-ui/build-ab-app/install-cli/)
+* Install NodeJS - <a href="https://nodejs.org/en/download/package-manager" target="_blank">Link</a>
+* Install New Relic One (nr1) cli - <a href="https://docs.newrelic.com/docs/new-relic-solutions/build-nr-ui/build-ab-app/install-cli/" target="_blank">Link</a>
 * Clone the repository
 
 ```bash
